@@ -1,4 +1,4 @@
-name: release
+name: jrat.t
 
 on:
   push:
